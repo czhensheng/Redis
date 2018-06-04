@@ -1,0 +1,11 @@
+F:\Person\Project\Redis\Redis\RedisDemo\bin\Debug\netcoreapp2.0\RedisDemo.deps.json
+F:\Person\Project\Redis\Redis\RedisDemo\bin\Debug\netcoreapp2.0\RedisDemo.runtimeconfig.json
+F:\Person\Project\Redis\Redis\RedisDemo\bin\Debug\netcoreapp2.0\RedisDemo.runtimeconfig.dev.json
+F:\Person\Project\Redis\Redis\RedisDemo\bin\Debug\netcoreapp2.0\RedisDemo.dll
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.csprojAssemblyReference.cache
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.csproj.CoreCompileInputs.cache
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.AssemblyInfoInputs.cache
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.AssemblyInfo.cs
+F:\Person\Project\Redis\Redis\RedisDemo\bin\Debug\netcoreapp2.0\RedisDemo.pdb
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.dll
+F:\Person\Project\Redis\Redis\RedisDemo\obj\Debug\netcoreapp2.0\RedisDemo.pdb
